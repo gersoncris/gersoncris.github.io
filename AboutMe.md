@@ -38,7 +38,7 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Hi, I'm [Your Name], a cybersecurity enthusiast with experience in [list your skills, e.g., network security, penetration testing, etc.].</p>
+        <p>Hi, I'm Gerson Crisostomo, a cybersecurity enthusiast with experience in network security, penetration testing.</p>
     </section>
     <section>
         <h2>Projects</h2>
@@ -50,11 +50,11 @@
     </section>
     <section>
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>Email: <a href="mailto:your.email@example.com">gersoncrisostomo29@gmail.com</a></p>
         <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn Profile</a></p>
     </section>
     <footer>
-        <p>&copy; 2023 [Your Name]. All rights reserved.</p>
+        <p>&copy; 2025 Gerson Crisostomo. All rights reserved.</p>
     </footer>
 </body>
 </html>
