@@ -50,7 +50,7 @@
     </section>
     <section>
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:gersoncrisostomo29@gmail.com">gersoncrisostomo29@gmail.com</a></p>
+        <p>Email: <<a href="mailto:your.gersoncrisostomo29@gmail.com?subject=Hello%20from%20Your%20Portfolio&body=Hi%20[Your%20Name],%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect.%0A%0ABest%20regards,%0A[Visitor's%20Name]" target="_blank" rel="noopener noreferrer">gersoncrisostomo29@gmail.com</a></p>>
         <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn Profile</a></p>
     </section>
     <footer>
