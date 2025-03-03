@@ -50,7 +50,7 @@
     </section>
     <section>
         <h2>Contact</h2>
-        <p>Email: <a href="gmail.com">gersoncrisostomo29@gmail.com</a></p>
+        <p>Email: <a href="https://mail.google.com">gersoncrisostomo29@gmail.com</a></p>
         <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn Profile</a></p>
     </section>
     <footer>
